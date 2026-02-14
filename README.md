@@ -721,16 +721,6 @@ Special thanks to the amazing open-source community and the following technologi
 
 ---
 
-## 📞 Support
-
-Need help? Feel free to reach out:
-
-- 📧 Email: shobhit@example.com
-- 💬 GitHub Issues: [Create an issue](https://github.com/Shobhits1/CraveDash/issues)
-- 🐦 Twitter: [@shobhitsingh](https://twitter.com/shobhitsingh)
-
----
-
 <div align="center">
 
 ### 💖 Made with passion and ☕ by Shobhit Singh
